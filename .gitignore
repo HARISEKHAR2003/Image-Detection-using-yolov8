@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+*/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# VSCode project settings
+.vscode/
+
+yolov8-env/
+*/yolov8-env/
